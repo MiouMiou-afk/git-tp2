@@ -5,3 +5,4 @@ public class ClassB {
 		System.out.println("Je suis la bonne méthode.");
 	}
 }
+kfkkf
